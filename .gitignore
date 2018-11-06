@@ -1,2 +1,4 @@
-.vs/*
-Debug/*
+.vs/
+Sandbox/Debug/
+Sandbox/x64/
+x64/
